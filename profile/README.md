@@ -27,7 +27,7 @@ Liner is a fast, minimalist, and visually immersive music platform. Built from t
 | :--- | :--- | :--- |
 | **[`tryliner/desktop`](https://github.com/tryliner/desktop)** | Cross-platform desktop player with syllable-synced lyrics, WebGL shaders & native audio engine | Electron, React 19, Tailwind v4, Rust/Wasm |
 | **[`tryliner/covers`](https://github.com/tryliner/covers)** | High-performance edge proxy for artwork fallback proxy, HMAC signing & caching | Cloudflare Workers, Web Crypto |
-| **[`tryliner/reccomender (private)`](https://github.com/tryliner/covers)** | Vector similarity engine driven by custom music graph datasets | Rust, Candle, Parquet |
+| **`tryliner/reccomender (private)`** | Vector similarity engine driven by custom music graph datasets | Rust, Candle, Parquet |
 
 ---
 
